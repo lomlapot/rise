@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">rise</string>
+    <string name="title_activity_main">MAIN_ACTIVITY</string>
+    <string name="sun">С</string>
+    <string name="grass">Т</string>
+    <string name="sky">Н</string>
+    <string name="clock">Ча</string>
+    <string name="hour">➡</string>
+    <string name="palm">Пальма</string>
+     <string name="stars">Звезд</string>
+    
+</resources>
